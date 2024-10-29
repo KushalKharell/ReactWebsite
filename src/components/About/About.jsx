@@ -17,10 +17,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Embedded Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a Embedded Software Engineer skilled in developing code for real-time products. 
               </p>
             </div>
           </li>
@@ -37,10 +36,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>GPU/SPACE</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have worked on varity of projects including drone systems, satalite payloads, and GPU acclerated systems. 
               </p>
             </div>
           </li>
