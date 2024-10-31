@@ -15,6 +15,9 @@ export const Hero = () => {
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
+        <a href="https://drive.google.com/file/d/1d7VbMsHnKekwI4ppXD8NTwydw-vGRcCq/view?usp=sharing" target="_blank" className={styles.resumeBtn}>
+          Resume
+        </a>
       </div>
       <img
         src={getImageUrl("hero/Profile.jpg")}
