@@ -10,7 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Kushal</h1>
         <p className={styles.description}>
           I'm a Software Engineer with 2+ years of experience using low level languages and
-          Backend APIs. Reach out if you'd like to learn more!
+          Backend APIs. 
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
