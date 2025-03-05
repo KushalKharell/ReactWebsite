@@ -2,27 +2,32 @@
   {
     "role": "HPC Software Engineer",
     "organisation": "GEOST",
-    "startDate": "Sept, 2022",
+    "startDate": "May, 2023",
     "endDate": "Present",
-    "experiences": ["Designed and implemented new features for computer vision product", "Reduced load times by 50%"],
+    "experiences": ["Leveraged NASA’s Core Flight System (CFS) to design, develop, and integrate advanced feature enhancements for satellite payload operations", 
+    "Collaborated with a dynamic team of more than 15 engineers, reviewing numerous pull requests to uphold rigorous code quality standards and delivering robust software solutions",
+    "Took ownership of a drone integration project, leading 90% of development and testing, resulting in a successful demo flight test and data capture",
+    "Integrated AWS services into a React application, while supporting deployment processes and feature enhancements"],
     "imageSrc": "history/geost.png"
   },
   {
     "role": "Embedded Software Engineer",
     "organisation": "ChemImage",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "startDate": "May, 2022",
+    "endDate": "May, 2023",
+    "experiences": ["Minimized product testing time by implementing python scripts that test the accuracy of detection for a large data set",
+     "Transitioned over five cs.net features from different products into a real-time system using C/C++ in a Linux platform",
+    "Leveraged NVIDIA GPU for embedded products to achieve real-time detection and high frame rates"],
     "imageSrc": "history/chemimage.png"
   },
   {
     "role": "Embedded system Intern",
     "organisation": "Starline",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "startDate": "Jun, 2021",
+    "endDate": "Aug, 2021",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Developed a Windows application with robust performance and reliability in report generation using Python 3.8, integrating Panda’s library for data manipulation and Tkinter for user-friendly GUI",
+      "Assisted engineers with hardware debugging, electronic component analysis for next-generation products, soldering, and circuit design"
     ],
     "imageSrc": "history/starline.png"
   }

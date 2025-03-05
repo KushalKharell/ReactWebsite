@@ -1,3 +1,5 @@
 # React + Vite
 
-New portfolio using react
+npm install 
+
+npm run dev
