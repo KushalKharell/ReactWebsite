@@ -8,11 +8,13 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Kushal</h1>
-        <p className={styles.description}>
-        I'm a software engineer passionate about solving complex problems and continuously exploring emerging technologies. 
-        Whether it's designing scalable systems, optimizing performance, or building innovative solutions, 
-        I love tackling challenges with a problem-solving mindset.<br></br>
-        </p>
+        <dev className={styles.textBox}>
+            <p className={styles.description}>
+            I'm a software engineer passionate about solving complex problems and continuously exploring emerging technologies. 
+            Whether it's designing scalable systems, optimizing performance, or building innovative solutions, 
+            I love tackling challenges with a problem-solving mindset.<br></br>
+            </p>
+        </dev>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
