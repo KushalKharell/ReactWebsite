@@ -25,9 +25,19 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link} target="_blank" rel="noopener noreferrer">
-          Demo
-        </a>
+
+          {demo ? (
+          <a href={demo} className={styles.link} target="_blank" rel="noopener noreferrer">
+            Demo
+          </a>
+          ) : (
+          <button
+            className={styles.link}
+            onClick={() => alert("Demo not available for this project")}
+          >
+            Demo
+          </button>
+          )}
         <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">
           Source
         </a>

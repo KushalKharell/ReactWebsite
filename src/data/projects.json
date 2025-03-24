@@ -2,17 +2,17 @@
   {
     "title": "Obstacle Avoidance System",
     "imageSrc": "projects/ObsSys.jpg",
-    "description": "Autonomously avoids objects while moving",
-    "skills": ["C", "sensors","EE", "ATmega328P"],
+    "description": "Autonomously avoids objects while moving. Using ATmega328P, sr04 sensor, servo and dc motors.",
+    "skills": ["C", "Circuit Design","Prototyping"],
     "demo": "https://drive.google.com/file/d/1FKk8YS_75CzmjMPBWzyD2zW7-q7o0JPo/view",
     "source": "https://github.com/KushalKharell/Embedded_Sys_Proj"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Hospital Management System",
+    "imageSrc": "projects/HMS.PNG",
+    "description": "OOP design project where user can book appointments, schedule caldender visits, and much more. ",
+    "skills": ["Java", "OOP", "System Design"],
+    "demo": "",
+    "source": "https://github.com/KushalKharell/Hospital-Record-Keeping-program-Java"
   }
 ]
