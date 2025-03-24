@@ -26,10 +26,13 @@
 }
 
 .aboutImage {
-  width: 35%;
+  width: 20%;
+  border-radius: 20%;
+  height: auto;
+  margin-right: 15px;
 
   animation-name: floating;
-  animation-duration: 3s;
+  animation-duration: 10s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
 }
@@ -38,11 +41,17 @@
   0% {
     transform: translate(0, 0px);
   }
+  25%{
+    transform: translate(0, 120px);
+  }
   50% {
-    transform: translate(0, 10px);
+    transform: translate(0, -0px);
+  }
+  75%{
+    transform: translate(0, -120px);
   }
   100% {
-    transform: translate(0, -0px);
+    transform: translate(0, 0px);
   }
 }
 
@@ -51,6 +60,11 @@
   display: flex;
   flex-direction: column;
   gap: 50px;
+}
+
+.aboutItem img{
+  margin-right: 20px;
+  margin-left: 15px;
 }
 
 .aboutItem {

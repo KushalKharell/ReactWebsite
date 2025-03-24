@@ -9,36 +9,36 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/console.png")}
+          src={getImageUrl("about/aboutimg.PNG")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/rasp.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Embedded Developer</h3>
+              <h3>Embedded & Systems Engineer</h3>
               <p>
-                I'm a Embedded Software Engineer skilled in developing code for real-time products. 
+              Experienced in real-time embedded development using C, C++, and Python. 
+              Worked on drone sensor integration and satellite payloads using NASA’s flight software. 
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/web.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Full-Stack & DevOps Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              Built and debugged RESTful React apps with JSX, deployed using AWS, and automated builds with Jenkins. Comfortable across backend, frontend, and CI/CD.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/rocket.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>GPU/SPACE</h3>
+              <h3>High-Performance & Aerospace Computing</h3>
               <p>
-                I have worked on varity of projects including drone systems, satalite payloads, and GPU acclerated systems. 
+              Optimized code using CUDA for GPU-accelerated systems and worked on high-speed satellite data pipelines. Strong focus on performance-critical applications 
               </p>
             </div>
           </li>
