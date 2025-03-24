@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Obstacle Avoidance System",
+    "imageSrc": "projects/ObsSys.jpg",
+    "description": "Autonomously avoids objects while moving",
+    "skills": ["C", "sensors","EE", "ATmega328P"],
+    "demo": "https://drive.google.com/file/d/1FKk8YS_75CzmjMPBWzyD2zW7-q7o0JPo/view",
+    "source": "https://github.com/KushalKharell/Embedded_Sys_Proj"
   },
   {
     "title": "Project B",

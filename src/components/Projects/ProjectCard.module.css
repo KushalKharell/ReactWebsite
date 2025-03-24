@@ -11,27 +11,31 @@
 }
 
 .image {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
   margin-bottom: 26px;
+  border-radius: 5px;
 }
 
 .title {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 700;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 19px;
   font-weight: 400;
 }
 
 .skills {
   width: 100%;
-  margin-top: 14px;
+  margin-top: 10px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 6px;
+  gap: 4px;
   list-style: none;
 }
 
@@ -48,6 +52,11 @@
   margin-top: 26px;
   display: flex;
   justify-content: space-around;
+}
+
+.link:hover {
+  transform: scale(1.1); /* Slight enlargement */
+  color: lightblue; /* Change text color */
 }
 
 .link {
