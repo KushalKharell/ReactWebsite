@@ -32,6 +32,11 @@
   gap: 26px;
 }
 
+.link:hover {
+  transform: scale(1.03); /* Slight enlargement */
+  color: rgb(29, 132, 184); /* Change text color */
+}
+
 .link {
   display: flex;
   align-items: center;
