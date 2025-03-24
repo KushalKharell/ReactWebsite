@@ -14,5 +14,29 @@
     "skills": ["Java", "OOP", "System Design"],
     "demo": "",
     "source": "https://github.com/KushalKharell/Hospital-Record-Keeping-program-Java"
+  },
+  {
+    "title": "Xilinx Basys-3 FPGA game",
+    "imageSrc": "projects/fpga.PNG",
+    "description": "Dual player dodging game with PS2keyboard, VGA, and joystick integration.",
+    "skills": ["VHDL", "Verilog", "I2C", "SPI"],
+    "demo": "https://www.youtube.com/watch?v=ZjYfLIouJn0&ab_channel=Kushalk",
+    "source": "https://github.com/KushalKharell/FPGA-game-using-ps2-keyboard-and-joystick"
+  },
+  {
+    "title": "Xilinx Basys-3 FPGA game",
+    "imageSrc": "projects/fpga.PNG",
+    "description": "Dual player dodging game with PS2keyboard, VGA, and joystick integration.",
+    "skills": ["VHDL", "Verilog", "I2C", "SPI"],
+    "demo": "https://www.youtube.com/watch?v=ZjYfLIouJn0&ab_channel=Kushalk",
+    "source": "https://github.com/KushalKharell/FPGA-game-using-ps2-keyboard-and-joystick"
+  },
+  {
+    "title": "Xilinx Basys-3 FPGA game",
+    "imageSrc": "projects/fpga.PNG",
+    "description": "Dual player dodging game with PS2keyboard, VGA, and joystick integration.",
+    "skills": ["VHDL", "Verilog", "I2C", "SPI"],
+    "demo": "https://www.youtube.com/watch?v=ZjYfLIouJn0&ab_channel=Kushalk",
+    "source": "https://github.com/KushalKharell/FPGA-game-using-ps2-keyboard-and-joystick"
   }
 ]
