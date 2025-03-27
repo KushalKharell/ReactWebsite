@@ -24,7 +24,7 @@
   letter-spacing: .10em; /* Adjust as needed */
   border-right: .10em solid transparent;
   white-space: nowrap;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
@@ -48,7 +48,7 @@
   border: 2px solid rgba(255, 255, 255, 0.3); 
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
   max-width: 700px;
-  max-height: 155px;
+  max-height: 235px;
   overflow: hidden;
   text-align: left;
   margin: auto;
