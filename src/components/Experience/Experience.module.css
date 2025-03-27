@@ -76,7 +76,7 @@
 }
 
 .historyItem:hover {
-  transform: scale(1.05); /* Slight enlargement */
+  transform: scale(1.03); /* Slight enlargement */
   color: lightblue; /* Change text color */
 }
 
